@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 *{
-	padding:10px;
+	padding:5px;
 	background-color: #f5f5f5;
 }
 .class1{
@@ -14,6 +14,11 @@
 }
 span{
 	background-color: white;
-	font-family: cursive;
+	text-align:right;
+}
+p{
+	background-color: white;
+}
+span{
 	text-align:right;
 }
